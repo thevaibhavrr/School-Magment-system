@@ -1,0 +1,25 @@
+li {
+    list-style: none;
+    padding: 3px  10px 0px ;
+}
+.links{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    transition: all 0.9s ease;
+}
+.links:hover{
+    color: rgb(83, 43, 86);
+}
+.main-navbar{
+    /* background: rgb(34, 193, 195); */
+    /* background-color: rgba(255, 196, 4, 0.788); */
+      background: rgb(202, 181, 21);
+
+    position: fixed;
+  /* background: linear-gradient(
+    0deg,
+    rgb(141, 205, 206) 0%,
+    rgb(18, 125, 126) 0%,
+    rgb(125, 76, 121) 100%
+  ); */
+}

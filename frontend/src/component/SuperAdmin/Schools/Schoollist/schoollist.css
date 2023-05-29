@@ -1,0 +1,16 @@
+.schoolImage{
+    width: 60px;
+    height: 45px;
+    /* border-radius: 700px; */
+    border-radius: 600px;
+}
+*{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.SchoollistPOsition{
+    position: relative;
+}
+.SchoolListTalble{
+          background: rgb(202, 181, 21);
+
+}
